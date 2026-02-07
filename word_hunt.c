@@ -103,13 +103,13 @@ int main()
                 if(option==1)
                     printf("hint:Sweet and cold\n");
                 if(option==2)
-                    printf("hint:Long, twisty, slurpy\n");
+                    printf("hint:Long,twisty,slurpy\n");
                 if(option==3)
                     printf("hint:Gym bros say this word 24/7\n");
                 if(option==4)
                 printf("hint:Keeps doctors unemployed\n");
                 if(option==5)
-                    printf("hint:Monkey’s favorite snack\n");
+                    printf("hint:Monkey's favorite snack\n");
 
             }
              if (choice==3){
@@ -118,7 +118,7 @@ int main()
                 if(option==2)
                     printf("hint: players chasing one ball dramatically\n");
                 if(option==3)
-                    printf("hint:Tall people’s favourite flex\n");
+                    printf("hint:Tall people's favourite flex\n");
                 if(option==4)
                 printf("hint:Desi wrestling but make it intense \n");
                 if(option==5)
@@ -141,3 +141,4 @@ int main()
 
     return 0;
 }
+
