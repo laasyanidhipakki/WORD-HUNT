@@ -22,19 +22,6 @@ Test your vocabulary skills with limited attempts and fun hints!
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-   git clone https://github.com/your-username/WORD-HUNT.git
-
-2. Compile the program:
-   gcc wordhunt.c
-
-3. Run the program:
-   ./a.out
-
----
-
 ## 📚 What I Learned
 
 - String handling using `strlen()` and `strcmp()`
